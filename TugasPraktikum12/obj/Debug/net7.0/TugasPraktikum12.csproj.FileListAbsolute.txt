@@ -1,0 +1,15 @@
+D:\22.11.4873\Tugas Pemrograman\TugasPraktikum12\TugasPraktikum12\TugasPraktikum12\bin\Debug\net7.0\TugasPraktikum12.exe
+D:\22.11.4873\Tugas Pemrograman\TugasPraktikum12\TugasPraktikum12\TugasPraktikum12\bin\Debug\net7.0\TugasPraktikum12.deps.json
+D:\22.11.4873\Tugas Pemrograman\TugasPraktikum12\TugasPraktikum12\TugasPraktikum12\bin\Debug\net7.0\TugasPraktikum12.runtimeconfig.json
+D:\22.11.4873\Tugas Pemrograman\TugasPraktikum12\TugasPraktikum12\TugasPraktikum12\bin\Debug\net7.0\TugasPraktikum12.dll
+D:\22.11.4873\Tugas Pemrograman\TugasPraktikum12\TugasPraktikum12\TugasPraktikum12\bin\Debug\net7.0\TugasPraktikum12.pdb
+D:\22.11.4873\Tugas Pemrograman\TugasPraktikum12\TugasPraktikum12\TugasPraktikum12\obj\Debug\net7.0\TugasPraktikum12.csproj.AssemblyReference.cache
+D:\22.11.4873\Tugas Pemrograman\TugasPraktikum12\TugasPraktikum12\TugasPraktikum12\obj\Debug\net7.0\TugasPraktikum12.GeneratedMSBuildEditorConfig.editorconfig
+D:\22.11.4873\Tugas Pemrograman\TugasPraktikum12\TugasPraktikum12\TugasPraktikum12\obj\Debug\net7.0\TugasPraktikum12.AssemblyInfoInputs.cache
+D:\22.11.4873\Tugas Pemrograman\TugasPraktikum12\TugasPraktikum12\TugasPraktikum12\obj\Debug\net7.0\TugasPraktikum12.AssemblyInfo.cs
+D:\22.11.4873\Tugas Pemrograman\TugasPraktikum12\TugasPraktikum12\TugasPraktikum12\obj\Debug\net7.0\TugasPraktikum12.csproj.CoreCompileInputs.cache
+D:\22.11.4873\Tugas Pemrograman\TugasPraktikum12\TugasPraktikum12\TugasPraktikum12\obj\Debug\net7.0\TugasPraktikum12.dll
+D:\22.11.4873\Tugas Pemrograman\TugasPraktikum12\TugasPraktikum12\TugasPraktikum12\obj\Debug\net7.0\refint\TugasPraktikum12.dll
+D:\22.11.4873\Tugas Pemrograman\TugasPraktikum12\TugasPraktikum12\TugasPraktikum12\obj\Debug\net7.0\TugasPraktikum12.pdb
+D:\22.11.4873\Tugas Pemrograman\TugasPraktikum12\TugasPraktikum12\TugasPraktikum12\obj\Debug\net7.0\TugasPraktikum12.genruntimeconfig.cache
+D:\22.11.4873\Tugas Pemrograman\TugasPraktikum12\TugasPraktikum12\TugasPraktikum12\obj\Debug\net7.0\ref\TugasPraktikum12.dll
